@@ -2,7 +2,7 @@ _**21 School/Ecole 42** Project_
 
 # Philosophers
 
-Problem statement: [en.subject.pdf](https://github.com/mkoch21/philosophers/blob/main/en.subject.pdf)
+Problem statement: [en.subject.pdf](https://cdn.intra.42.fr/pdf/pdf/60980/en.subject.pdf)
 
 Dining Philosophers problem, multi-threads programming with the use of mutex 
 
